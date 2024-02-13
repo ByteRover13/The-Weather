@@ -1,0 +1,73 @@
+{
+  ".svelte-kit/generated/client-optimized/app.js": {
+    "file": "_app/immutable/entry/app.DZg92kcu.js",
+    "src": ".svelte-kit/generated/client-optimized/app.js",
+    "isEntry": true,
+    "imports": [
+      "_scheduler.DE1jmc0W.js",
+      "_index.BqIZv4WP.js"
+    ],
+    "dynamicImports": [
+      ".svelte-kit/generated/client-optimized/nodes/0.js",
+      ".svelte-kit/generated/client-optimized/nodes/1.js",
+      ".svelte-kit/generated/client-optimized/nodes/2.js"
+    ]
+  },
+  ".svelte-kit/generated/client-optimized/nodes/0.js": {
+    "file": "_app/immutable/nodes/0.EATtfM_k.js",
+    "src": ".svelte-kit/generated/client-optimized/nodes/0.js",
+    "isEntry": true,
+    "isDynamicEntry": true,
+    "imports": [
+      "_scheduler.DE1jmc0W.js",
+      "_index.BqIZv4WP.js"
+    ]
+  },
+  ".svelte-kit/generated/client-optimized/nodes/1.js": {
+    "file": "_app/immutable/nodes/1.D9zkiKaT.js",
+    "src": ".svelte-kit/generated/client-optimized/nodes/1.js",
+    "isEntry": true,
+    "isDynamicEntry": true,
+    "imports": [
+      "_scheduler.DE1jmc0W.js",
+      "_index.BqIZv4WP.js",
+      "_entry.DgCSXqL-.js"
+    ]
+  },
+  ".svelte-kit/generated/client-optimized/nodes/2.js": {
+    "file": "_app/immutable/nodes/2.BCrq6S_l.js",
+    "src": ".svelte-kit/generated/client-optimized/nodes/2.js",
+    "isEntry": true,
+    "isDynamicEntry": true,
+    "imports": [
+      "_scheduler.DE1jmc0W.js",
+      "_index.BqIZv4WP.js"
+    ],
+    "css": [
+      "_app/immutable/assets/2.OpYgKY8f.css"
+    ]
+  },
+  "_entry.DgCSXqL-.js": {
+    "file": "_app/immutable/chunks/entry.DgCSXqL-.js",
+    "imports": [
+      "_scheduler.DE1jmc0W.js"
+    ]
+  },
+  "_index.BqIZv4WP.js": {
+    "file": "_app/immutable/chunks/index.BqIZv4WP.js",
+    "imports": [
+      "_scheduler.DE1jmc0W.js"
+    ]
+  },
+  "_scheduler.DE1jmc0W.js": {
+    "file": "_app/immutable/chunks/scheduler.DE1jmc0W.js"
+  },
+  "node_modules/@sveltejs/kit/src/runtime/client/entry.js": {
+    "file": "_app/immutable/entry/start.p0Q2WAuk.js",
+    "src": "node_modules/@sveltejs/kit/src/runtime/client/entry.js",
+    "isEntry": true,
+    "imports": [
+      "_entry.DgCSXqL-.js"
+    ]
+  }
+}
