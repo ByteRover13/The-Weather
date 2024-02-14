@@ -1,5 +1,5 @@
 # The Weather
-![fondo](/static/page-png)
+<img src="/static/page.png" width="800"/>
 
 ## Developing
 
