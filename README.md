@@ -1,5 +1,5 @@
 # The Weather
-<img src="/static/page.png" width="800"/>
+<img src="/static/page.png" width="800" style="display: block; margin: auto;"/>
 
 ## Developing
 
